@@ -1,0 +1,9 @@
+2025-04-23 23:26:57,160 - INFO - Starting ad categorization process.
+2025-04-23 23:26:57,160 - INFO - Categorized ad: Big Sale on Flight Tickets -> ['Retail', 'Travel']
+2025-04-23 23:26:57,160 - INFO - Categorized ad: Secure Your Future -> ['Finance']
+2025-04-23 23:26:57,160 - INFO - Categorized ad: Try Our New Spicy Dishes! -> ['Food']
+2025-04-23 23:26:57,160 - INFO - Categorized ad: Shop Till You Drop! -> ['Retail']
+2025-04-23 23:26:57,161 - INFO - Categorized ad: Plan Your Dream Vacation -> ['Travel']
+2025-04-23 23:26:57,161 - INFO - Categorized ad: Invest Smartly Today -> ['Finance']
+2025-04-23 23:26:57,161 - INFO - Categorized ad: Fastest Food Delivery in Town -> ['Food']
+2025-04-23 23:26:57,161 - INFO - Ad categorization complete. Output saved to JSON.

@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Big Sale on Flight Tickets",
+        "description": "Book your vacation now!",
+        "keywords": [
+            "travel"
+        ],
+        "categories": [
+            "Retail",
+            "Travel"
+        ]
+    },
+    {
+        "title": "Secure Your Future",
+        "description": "Get the best insurance plan for your family.",
+        "keywords": [
+            "finance"
+        ],
+        "categories": [
+            "Finance"
+        ]
+    },
+    {
+        "title": "Try Our New Spicy Dishes!",
+        "description": "Home delivery available for all cuisines.",
+        "keywords": [
+            "food"
+        ],
+        "categories": [
+            "Food"
+        ]
+    },
+    {
+        "title": "Shop Till You Drop!",
+        "description": "Get huge discounts on your favorite brands.",
+        "keywords": [
+            "retail"
+        ],
+        "categories": [
+            "Retail"
+        ]
+    },
+    {
+        "title": "Plan Your Dream Vacation",
+        "description": "Affordable holiday packages to exotic destinations.",
+        "keywords": [
+            "tour"
+        ],
+        "categories": [
+            "Travel"
+        ]
+    },
+    {
+        "title": "Invest Smartly Today",
+        "description": "Grow your wealth with trusted investment options.",
+        "keywords": [
+            "investment"
+        ],
+        "categories": [
+            "Finance"
+        ]
+    },
+    {
+        "title": "Fastest Food Delivery in Town",
+        "description": "Order now and get it delivered in 30 minutes.",
+        "keywords": [
+            "restaurant"
+        ],
+        "categories": [
+            "Food"
+        ]
+    }
+]
