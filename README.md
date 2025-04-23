@@ -15,26 +15,4 @@ This Python-based tool performs automated categorization of advertisements using
 
 ---
 
-## 📁 Project Structure
-
-ad_categorization/ 
-     ├── data/
-     │      └── ads.csv 
- #Input CSV with ad metadata 
-     ├── output/  
-     │     └── categorized_ads.json 
-#Output JSON file 
-     ├── logs/ 
-     │     └── run.log 
-#Log file for process tracking 
-     ├── utils/ 
-     │     ├── cleaner.py  
-#Text preprocessing 
-     │     └── logger.py 
-#Logger setup 
- ├── categorizer.py  
-#Categorization logic
- ├── config.py  
-#Category-keyword config 
- └── main.py 
 
